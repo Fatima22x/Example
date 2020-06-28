@@ -1,0 +1,15 @@
+img {
+  height: inherit;
+  width: inherit;
+}
+
+.star-rating {
+  line-height:20px;
+  font-size:20px;
+}
+
+.fa-star{color: gray;}
+
+.fa-star.checked {
+    color: #f5df60;
+}
